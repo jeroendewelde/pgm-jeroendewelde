@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Jeroen Dewelde
 
 ## About Me
-I recently graduated my associate "Programming" degree from Artevelde University of Applied Science.  
+I recently graduated with an associate degree in "Programming" from Artevelde University of Applied Science.  
 Take a look around at my projects.  
 
 My current portfolio can be found here:
