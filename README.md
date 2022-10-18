@@ -5,10 +5,12 @@ I recently graduated my associate "Programming" degree from Artevelde University
 Take a look around at my projects.  
 
 My current portfolio can be found here:
-[current portfolio](https://pgm-jeroendewelde.github.io/portfolio/)
+[current portfolio](http://www.jeroendewelde.be/)
 
-My new 2022 portfolio is in the works and can be found here:
-[2022 portfolio](https://portfolio-2022-flame.vercel.app/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jeroendewelde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgm-jeroendewelde&show_icons=true)
+
 ## 
 
 <!--
